@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World from Jenkins server!! Test for webhoo!k"
+echo "Hello World from Jenkins server!! Test for webhook!!"
